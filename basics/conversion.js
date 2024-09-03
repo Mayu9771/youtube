@@ -7,4 +7,4 @@ console.log(typeof valueInNumber);
 console.log(valueInNumber);
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean
-console.log(booleanIsLoggedIn);
+console.log(booleanIsLogged)
